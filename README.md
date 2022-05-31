@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PoshIsEpic
+- 👋 Hi, I’m @Games4Days
 - 👀 I’m interested in unblocking websites and helping kids enjoy their school day
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on unblocking websites

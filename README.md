@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Games4Days
+- 👋 Hi, I’m @Posh'sNetwork
 - 👀 I’m interested in unblocking websites and helping kids enjoy their school day
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning css and js 
 - 💞️ I’m looking to collaborate on unblocking websites
 - 📫 How to reach me randomthingsforsureinfo@gmail.com
 
